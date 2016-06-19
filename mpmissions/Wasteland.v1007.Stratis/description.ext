@@ -1,3 +1,4 @@
+#include "infiSTAR_AdminMenu.hpp"
 respawn="BASE";
 respawnDelay=15;
 disabledAI=1;

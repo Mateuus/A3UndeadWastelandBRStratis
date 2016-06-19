@@ -31,7 +31,7 @@ _passwordAdmin = '27091995';
 	_MOD can be 'Epoch', 'AltisLife', 'KOTH', 'WASTELAND' or 'Other'.
 	You have to set the mod you run manually
 */
-_MOD = 'AltisLife';
+_MOD = 'WASTELAND';
 
 
 

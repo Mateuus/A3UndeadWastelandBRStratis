@@ -15,11 +15,11 @@ private ["_MessagesToAnnounceStringArray","_DisplayTimesCheckArray","_MinimumSle
 _MessagesToAnnounceStringArray = 
 
 [
-["Procurando por um Admin? Entre em nosso Teamspeak3 server - ts.brjhow.com.br", 300],
-["Para ter acesso ao Arsenal Virtual entre em nosso site e colabore com o server, acesse: http://www.brjhow.com.br/shop/", 612],
-["Este servidor é monitorado pela equipe BRJhow, todas as ações são registradas", 907], 
-["Nosso Rank será reiniciado todo inicio de mês e os 3 primeiros colocados terão sua classificação divulgada no jogo", 674],
-["Acesse nosso Rank em: http://www.brjhow.com.br/arma3/", 709]
+["Procurando por um Admin? Entre em nosso Teamspeak3 server - ts3.undeadbrasil.com", 300],
+/*["Para ter acesso ao Arsenal Virtual entre em nosso site e colabore com o server, acesse: ", 612],*/
+["Este servidor é monitorado pela equipe Undead Brasil Servidores, todas as ações são registradas", 907], 
+/*["Nosso Rank será reiniciado todo inicio de mês e os 3 primeiros colocados terão sua classificação divulgada no jogo", 674],*/
+["Acesse nosso Forum em: http://www.undeadbrasil.com", 709]
 ];
 
 if ((count _MessagesToAnnounceStringArray) == 0) exitWith 
